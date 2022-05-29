@@ -29,7 +29,8 @@ or <a href="mailto:iahmedai90@gmail.com"><b>email</b></a> me
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+
+![](https://komarev.com/ghpvc/?username=aazo)
 
 <i>Follow me around the web:</i><br>
 
