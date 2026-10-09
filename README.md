@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A developer from Iraq 🇮🇶</h3>
+<h4 align="center">All My repos are private 🔐 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aazo&label=Profile%20views&color=0e75b6&style=flat" alt="aazo" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 💬 Ask me about **Anything you want**
 
-- 📫 How to reach me **iahmedai90@gmail.com**
+- 📫 How to reach me **me@hmad.me**
 
 - 📌 All my repositories are private 🔒.
 
